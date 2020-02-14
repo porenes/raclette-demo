@@ -1,4 +1,4 @@
-package dev.raclette.demo;
+package dev.raclette.demo.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
